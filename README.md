@@ -1,5 +1,5 @@
 # DL_2023 - Final Assignment: Mini Research Project 
-<center> Pei-Hsun Chen, Jinjia Huang, Lida Khachatryan, Mohsen Mohammadi, Jesica Olivares 
+Pei-Hsun Chen, Jinjia Huang, Lida Khachatryan, Mohsen Mohammadi, Jesica Olivares 
 
 ### A Review of:
 
